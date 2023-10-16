@@ -10,10 +10,7 @@ const Login = () => {
     const navigate = useNavigate();
 
     const { setToken, setUser } = useStateContext();
-    const [errors, setErrors]: any = useState([
-        'email should not be empty'
-    ]);
-
+    const [errors, setErrors]: any = useState([]);
 
     const onSubmit = async (e: any) => {
         e.preventDefault();
