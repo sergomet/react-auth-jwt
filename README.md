@@ -5,9 +5,9 @@ Backend not included!
 
 ## Todo
 
-[] complete register
-[] use React Query
-[x] jwt decode
-[x] logout
-[x] login
-[x] context
+[] complete register <br />
+[] use React Query <br />
+[x] jwt decode <br />
+[x] logout <br />
+[x] login <br />
+[x] context <br />
